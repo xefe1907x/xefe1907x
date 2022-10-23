@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Efe Aslan</h1>
-<h3 align="center">I'm Unity Game Developer</h3>
+<h1 align="center">Hi there 👋, I'm Efe Aslan</h1>
+<h3 align="center">Unity Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xefe1907x&label=Profile%20views&color=0e75b6&style=flat" alt="xefe1907x" /> </p>
 
