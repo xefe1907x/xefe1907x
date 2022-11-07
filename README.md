@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [HumanGunClone](https://github.com/xefe1907x/Human-Gun-Clone)
 
-- 👨‍💻 Some of my projects are available at [https://play.google.com/store/apps/developer?id=Efe+Aslan](https://play.google.com/store/apps/developer?id=Efe+Aslan)
+- 👨‍💻 My clone games are available at [https://play.google.com/store/apps/developer?id=Efe+Aslan](https://play.google.com/store/apps/developer?id=Efe+Aslan)
 
 - 📫 You can reach me from **efeaslan1995@gmail.com**
 
